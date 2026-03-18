@@ -17,7 +17,7 @@ Desenvolvedor Front-end com experiência em ambientes de produção, focado em c
 
 Trabalhei no desenvolvimento de um **sistema interno de faturamento e cobranças desde o início**, criando componentes reutilizáveis, integrando APIs REST e refatorando código para ganho de escalabilidade. Também tenho contato com Angular e C# do período de estágio, o que me dá uma visão mais ampla do ciclo de desenvolvimento.
 
-- 🏢 Atualmente: Desenvolvedor Front-end Júnior @ **Cogecom**
+- 🏢 Atualmente: Desenvolvedor Front-end Júnior
 - 🎓 Tecnólogo em ADS — **Unicesumar** (2022–2024)
 - 🌐 Inglês intermediário · Francês básico
 - 🟢 **Aberto a oportunidades** — remoto ou híbrido
